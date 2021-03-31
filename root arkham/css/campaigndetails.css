@@ -1,0 +1,31 @@
+.card-img{
+    height:300px;
+    max-width:auto;
+    object-fit:cover;
+    opacity:.5;
+}
+.card-img-overlay{
+    padding-top:10%;
+}
+.card{
+    margin-top:0%;
+    margin-bottom:4%;
+    margin-left:0%;
+    margin-right:0%;
+    box-shadow: 0px 5px 50px 10px rgb(13, 85, 148,0);
+}
+.breadcrumb{
+    padding-top:1%;
+    padding-bottom:1%;
+    padding-left:10%;
+    padding-right:10%;
+    background-color:rgba(5, 31, 80, 0.892);
+}
+.summary{
+    background-color:rgba(5, 31, 80, 0.892);
+    padding:2%;
+    box-shadow: 0px 5px 50px 10px rgb(13, 85, 148,.8);
+}
+.navbar{
+    margin-bottom:1%;
+}

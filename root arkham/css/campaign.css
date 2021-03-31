@@ -1,0 +1,15 @@
+.card-text{
+    font-size:16px;
+}
+.maincard .card-body{
+    height:328px;
+}
+.card-title{
+    margin-bottom:0px;
+}
+h4{
+    margin-bottom:24px;
+}
+.card{
+    min-height:580px;
+}

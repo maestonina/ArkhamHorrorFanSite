@@ -1,0 +1,14 @@
+.card{
+    min-height:400px;
+}
+i{
+    color:white;
+}
+.gamedetails{
+  display:flex;
+  align-content:center;
+}
+.gamedetails div{
+  margin:40px;
+  align-items:center;
+}
